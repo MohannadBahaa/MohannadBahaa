@@ -1,8 +1,8 @@
-<p align="center">
+<!-- ![giphy](https://raw.githubusercontent.com/MohnnadBahaa/MohannadBahaa/main/gif/header.gif) -->
+<p align="center" width="100" height="100" >
   <img  src="https://raw.githubusercontent.com/MohnnadBahaa/MohannadBahaa/main/gif/header.gif">
 </p>
 
-<!-- ![giphy](https://raw.githubusercontent.com/MohnnadBahaa/MohannadBahaa/main/gif/header.gif) -->
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 I'm Mohannad, a passionate Full Stack Developer 🚀 from Jordan.
