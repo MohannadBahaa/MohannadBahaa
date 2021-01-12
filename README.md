@@ -13,8 +13,10 @@ I'm Mohannad, a passionate Full Stack Developer 🚀 from Jordan.
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC)
 [![Python](https://img.shields.io/badge/-Python-000?&logo=python)](https://github.com/adamalston?tab=repositories&q=&type=&language=python)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
-![SQL](https://img.shields.io/badge/-PHP-000?&logo=PHP&logoColor=4479A1)
+![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP&logoColor=4479A1)
+### Top Languages
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohannadBahaa&layout=compact)](https://github.com/MohannadBahaa/github-readme-stats)
 ### Technologies
 
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
