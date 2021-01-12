@@ -19,7 +19,7 @@ I'm Mohannad, a passionate :blush: Full Stack Developer 🚀 from Jordan.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohannadBahaa&layout=compact)](https://github.com/MohannadBahaa/github-readme-stats)
 ### Technologies
 
-![Node.js](https://img.shields.io/badge/-Node.js-5c940d?&logo=node.js)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![React native](https://img.shields.io/badge/-React_Native-000?&logo=React)
 ![GraphQl](https://img.shields.io/badge/-GraphQl-000?&logo=GraphQl)
